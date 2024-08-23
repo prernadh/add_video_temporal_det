@@ -1,0 +1,9 @@
+name: "@prernadh/add_video_temporal_det"
+description: This plugin allows you to add temporal detections to videos.
+version: 1.0.0
+fiftyone:
+  version: "*"
+url: https://github.com/prernadh/add_video_temporal_det.git
+license: Apache 2.0
+operators:
+  - add_video_temporal_det
