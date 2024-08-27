@@ -1,7 +1,6 @@
 ## Temporal Detection in Video
 
-This plugin allows you to edit the attributes of selected labels in the
-FiftyOne App.
+This plugin allows you to add temporal detections to videos through the FiftyOne app using start and end timestamps.
 
 ![](https://github.com/prernadh/add_video_temporal_det/blob/main/temporal_det_demo.gif)
 
