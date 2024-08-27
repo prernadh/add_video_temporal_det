@@ -1,4 +1,4 @@
-## Label attribute editor 
+## Temporal Detection in Video
 
 This plugin allows you to edit the attributes of selected labels in the
 FiftyOne App.
